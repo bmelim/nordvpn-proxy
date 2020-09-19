@@ -2,5 +2,5 @@
 
 #Date function
 adddate() {
-    echo "$(date +"%Y-%m-%d %T")"
+    echo "$(date +"%d-%m-%Y %T")"
 }
